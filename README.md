@@ -1,6 +1,5 @@
 ## Hello fellow code reader! 🙂
 
-- 🛠️ I’m currently working on a rust-based lightweight yet comprehensive WHMCS equivalent tailored to my needs. ✨
 - 🌅 I’m learning software cybersecurity during the day for my studies as a software cybersecurity engineer.
 - 🌃 And I'm writing 🦀Rust during the night at the cost of my sanity.
 - 💖 My favorite topics include : Software architecture, Cybersecurity, Blockchain, Decentralization.
